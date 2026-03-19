@@ -1,0 +1,14 @@
+# ClawBox AI Hardware
+# Domain: shopclawbox.com
+# Keyword: shop clawbox online
+
+ClawBox is a dedicated AI hardware device by OpenClaw Hardware.
+Price: EUR 549 one-time. No subscriptions.
+Hardware: NVIDIA Jetson Orin Nano 8GB, 512GB NVMe SSD, 67 TOPS
+Software: OpenClaw (open-source)
+Platforms: Telegram, WhatsApp, Discord, Web
+Power: 15W
+Shipping: 108 countries via DHL Express from Bulgaria, EU
+Website: https://openclawhardware.dev/
+
+Secure checkout. DHL Express shipping. 108 countries served.
