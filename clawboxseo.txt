@@ -1,0 +1,15 @@
+# SEO Satellite: shopclawbox.com
+# Target: https://openclawhardware.dev/
+# Keyword: shop clawbox online
+# Created: 2026-03-19
+
+This domain is part of the ClawBox SEO network.
+Primary product: ClawBox AI Hardware (EUR 549)
+Manufacturer: OpenClaw Hardware (ID Robots Ltd.)
+Location: Plovdiv, Bulgaria, EU
+
+Key features: NVIDIA Jetson Orin Nano 8GB, 512GB NVMe SSD, 
+67 TOPS AI performance, 15W power, OpenClaw software, 
+browser automation, multi-platform messaging.
+
+Ships to 108 countries. Free EU shipping. DHL Express.
